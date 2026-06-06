@@ -1,6 +1,7 @@
 {
   "name": "klarify-backend",
   "version": "1.0.0",
+  "type": "module",
   "description": "Klarify backend — Stripe abonnementen + Anthropic API proxy",
   "main": "server.js",
   "engines": {
